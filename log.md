@@ -14,25 +14,28 @@
 
 **Today's Progress**: 
 - lined everything up and got my Responsive Web Design Cert from [freecodecamp](https://www.freecodecamp.org)
-- Joined 301daysofcode. Found a few nice resources. Signed up for a couple courses for CSS Grid and Javascript. Done 1hr course on Markdown (WesBos).
+- Joined 301daysofcode. Found a few nice resources. Signed up for a couple courses for CSS Grid and Javascript. Done 1hr course on Markdown (WesBos). + HTML
 
 **Thoughts**: Got a few ideas for little css stuff and other projects to code, which is nice.
 
 **Hours worked**: 2 + 1 hr researching/online reading.
+
 ***************************************
 
 
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day : 
+### Day 3:  29 April 2020
 
 **Today's Progress**: 
+- started Complete Web Dev course by Angela Yu
+- gotten Andrei's Web Dev Mastery course as well
+- web design research
 
-**Thoughts** 
+**Thoughts** : lots of cool stuff out there. Trying to get the HTML + CSS basics down. Also, apparently PHP and JQuery are old and obsolete now? Well, Wordpress and others still use them right? I guess I'll keep JQuery light while learning.
+Found a few cool/informative peeps on Twitter.
 
-**Link(s) to work**
+**Hours worked**: 4-5
+
 
 *************************************
 
@@ -42,7 +45,7 @@
 
 **Thoughts** 
 
-**Link(s) to work**
+**Hours worked**:
 
 *************************************
 ### Day : 
@@ -51,7 +54,7 @@
 
 **Thoughts** 
 
-**Link(s) to work**
+**Hours worked**:
 
 *************************************
 ### Day : 
@@ -60,7 +63,7 @@
 
 **Thoughts** 
 
-**Link(s) to work**
+**Hours worked**:
 
 *************************************
 ### Day : 
@@ -69,7 +72,7 @@
 
 **Thoughts** 
 
-**Link(s) to work**
+**Hours worked**:
 
 *************************************
 ### Day : 
