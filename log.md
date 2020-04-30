@@ -39,13 +39,16 @@ Found a few cool/informative peeps on Twitter.
 
 *************************************
 
-### Day : 
+### Day 4: 30 April 2020
 
 **Today's Progress**: 
+- Angela Yu's course through to Bootstrap
+- basic coding knowledge w Code Academy
+- quick Javascript intro
 
-**Thoughts** 
+**Thoughts** : rainy day, perfect for watching videos - taking notes. Getting ok with playing around w CSS.
 
-**Hours worked**:
+**Hours worked**: 4-5
 
 *************************************
 ### Day : 
