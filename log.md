@@ -51,13 +51,17 @@ Found a few cool/informative peeps on Twitter.
 **Hours worked**: 4-5
 
 *************************************
-### Day : 
+
+### Day 5: 1 May 2020
 
 **Today's Progress**: 
+- Web Dev Mastery course up to Bootstrap
+- advanced CSS
+- planned a few projects
 
-**Thoughts** 
+**Thoughts** : (today is a national holiday - less time to work on coding). Learned quite a few snippets of stuff for CSS and general practices. Also started Andrei Neagoie's Complete Web Dev in 2020: Zero to Master course. Stopped right in the middle of Bootstrap, so now I'm level with Angela's. Planned a few ideas and also prepped a general course of action for the month of May.
 
-**Hours worked**:
+**Hours worked**: 4
 
 *************************************
 ### Day : 
