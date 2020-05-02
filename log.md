@@ -64,13 +64,17 @@ Found a few cool/informative peeps on Twitter.
 **Hours worked**: 4
 
 *************************************
-### Day : 
+### Day 6: 2 May 2020
 
 **Today's Progress**: 
+- usual Twitter bookmarking of interesting/useful stuff
+- Bootstrap & more on Andrei's course
+- played around with CSS + webpages
+- should note that I've been obviously playing around with VSCode and Github and Github Pages during these weeks.
 
-**Thoughts** 
+**Thoughts** : flex and grid still need to work out the kinks - like where exactly to specify alignment/centering etc. Good work on getting a "website" up on Github + Mailchimp landing page.
 
-**Hours worked**:
+**Hours worked**: 4
 
 *************************************
 ### Day : 
