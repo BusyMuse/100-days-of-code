@@ -77,13 +77,18 @@ Found a few cool/informative peeps on Twitter.
 **Hours worked**: 4
 
 *************************************
-### Day : 
+### Day 7: 3 May 2020 Sunday
 
 **Today's Progress**: 
+- lots of Javascript. Functions + Arrays
+- picked a couple of courses to build stuff w JS + React for upcoming weeks
+- also Python for future
 
-**Thoughts** 
+**Thoughts** : moving along nicely. Strategy is to learn, apply, learn w other course/method and apply through different projects so that I keep seeing the rules/syntax/methods applied in diff situations and I use them over and over.
 
-**Hours worked**:
+_Also have to remember I have a lot of interesting-looking courses in Udemy waiting for me to build stuff with!_
+
+**Hours worked**: 5
 
 *************************************
 ### Day : 
